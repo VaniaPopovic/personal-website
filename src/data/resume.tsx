@@ -91,7 +91,7 @@ export const DATA = {
       start: "Dec 2018",
       end: "Present",
       description:
-        "Led development team, executed product roadmaps, optimized Azure expenses, migrated front-end and back-end frameworks, and maintained ETL pipelines in Databricks.",
+        "Talking Medicines provides AI-powered conversational data intelligence for healthcare marketing, offering insights through the Drug-GPT product to analyze and interpret patient and healthcare professional discussions.",
     },
     {
       company: "Bobbll / Jobvibe",
@@ -103,7 +103,7 @@ export const DATA = {
       start: "Jun 2018",
       end: "Present",
       description:
-        "Created and launched Bobbll, a gig-work platform. Developed iOS and Android apps, built backend with Firebase, and implemented CI/CD pipelines. Also designed and developed Jobvibe, a SaaS platform for talent management.",
+        "Jobvibe is a SaaS platform that enables marketing and recruitment teams to collaborate on video content for attracting, screening, onboarding, and retaining talent.",
     },
   ],
   education: [
