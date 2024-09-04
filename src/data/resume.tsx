@@ -86,7 +86,7 @@ export const DATA = {
       href: "https://talkingmedicines.com",
       badges: [],
       location: "Glasgow, UK",
-      title: "Data Tech Team Lead / Data Engineer",
+      title: "Data Engineer",
       logoUrl: "/talkingmedicines.png",
       start: "Dec 2018",
       end: "Present",
